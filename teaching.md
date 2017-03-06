@@ -57,9 +57,8 @@ permalink: /teaching/
   </div>
 
   <div class="w3-container w3-content w3-center w3-padding-12" style="max-width:800px">
-    <h3 id="links">Links</h1>
+    <h3 id="links">Links</h3>
 
-          <hr />
           <p><a href="http://coursecatalog.ucsf.edu/anatomy">Anatomy Course Catalog</a></p>
 
           <p><a href="http://coursecatalog.ucsf.edu/interdept">Interdepartmental Studies Course Catalog</a></p>
