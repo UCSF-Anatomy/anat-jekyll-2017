@@ -58,7 +58,7 @@ permalink: /faculty/
     </div>
     <div class="w3-third">
       <p>Rushika Perera</p>
-      <a href="{{ site.baseurl }}/perera"><img src="{{ site.baseurl }}/img/perera.jpg" class="w3-round w3-margin-bottom" alt="Rushika Perera" style="width:60%"></a>
+      <a href="{{ site.baseurl }}/perera"><img src="{{ site.baseurl }}/img/perera.jpg" class="w3-round w3-margin-bottom" title="autophagy and cancer metabolism." alt="Rushika Perera" style="width:60%"></a>
     </div>
   </div>
   </div>

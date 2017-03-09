@@ -26,6 +26,12 @@ permalink: /perera/
       <li id=""><a href="http://www.rushikapereralab.com/">Perera Lab Website</a></li>
   </ul>
 
+  <h2>Research Interests</h2>
+    <ul>
+        <li>Autophagy and Cancer Metabolism</li>
+    </ul>
+
+<!--profiles data here-->
         <h2>Connect</h2>
     	  <ul>
     	    <li id="profiles_email_link_container"></li>
