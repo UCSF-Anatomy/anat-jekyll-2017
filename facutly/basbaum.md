@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Allan Basbaum
-permalink: /Basbaum/
+permalink: /basbaum/
 ---
 
 <!-- Page content -->

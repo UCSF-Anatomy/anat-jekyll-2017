@@ -98,15 +98,15 @@ permalink: /faculty/
         <div class="w3-row w3-padding-32">
           <div class="w3-third">
             <p>Richard Breiman</p>
-            <a href="#"><img src="{{ site.baseurl }}/img/placeholder.png" class="w3-round w3-margin-bottom" alt="placeholder" style="width:60%"></a>
+            <!--<a href="#"><img src="{{ site.baseurl }}/img/placeholder.png" class="w3-round w3-margin-bottom" alt="placeholder" style="width:60%"></a>-->
           </div>
           <div class="w3-third">
             <p>Patricia Calarco</p>
-            <a href="#"><img src="{{ site.baseurl }}/img/placeholder.png" class="w3-round w3-margin-bottom" alt="placeholder" style="width:60%"></a>
+            <!--<a href="#"><img src="{{ site.baseurl }}/img/placeholder.png" class="w3-round w3-margin-bottom" alt="placeholder" style="width:60%"></a>-->
           </div>
           <div class="w3-third">
             <p>Jerry Cunha</p>
-            <a href="#"><img src="{{ site.baseurl }}/img/placeholder.png" class="w3-round w3-margin-bottom" alt="placeholder" style="width:60%"></a>
+            <!--<a href="#"><img src="{{ site.baseurl }}/img/placeholder.png" class="w3-round w3-margin-bottom" alt="placeholder" style="width:60%"></a>-->
           </div>
         </div>
       </div>
@@ -115,33 +115,32 @@ permalink: /faculty/
       <div class="w3-row w3-padding-32">
         <div class="w3-third">
           <p>Robert Hamilton Jr</p>
-          <a href="#"><img src="{{ site.baseurl }}/img/placeholder.png" class="w3-round" alt="placeholder" style="width:60%"></a>
+          <!--<a href="#"><img src="{{ site.baseurl }}/img/placeholder.png" class="w3-round" alt="placeholder" style="width:60%"></a>-->
         </div>
         <div class="w3-third">
           <p>Albert Jones</p>
-          <a href="#"><img src="{{ site.baseurl }}/img/placeholder.png" class="w3-round w3-margin-bottom" alt="placeholder" style="width:60%"></a>
+          <!--<a href="#"><img src="{{ site.baseurl }}/img/placeholder.png" class="w3-round w3-margin-bottom" alt="placeholder" style="width:60%"></a>-->
         </div>
         <div class="w3-third">
           <p>Jennifer LaVail</p>
-          <a href="#"><img src="{{ site.baseurl }}/img/placeholder.png" class="w3-round w3-margin-bottom" alt="placeholder" style="width:60%"></a>
+          <!--<a href="#"><img src="{{ site.baseurl }}/img/placeholder.png" class="w3-round w3-margin-bottom" alt="placeholder" style="width:60%"></a>-->
         </div>
-
       </div>
     </div>
 
     <div class="w3-container w3-content w3-center w3-padding-12" style="max-width:800px">
     <div class="w3-row w3-padding-32">
       <div class="w3-third">
+        <p>Matthew LaVail</p>
+        <!--<a href="#"><img src="{{ site.baseurl }}/img/placeholder.png" class="w3-round" alt="placeholder" style="width:60%"></a>-->
+      </div>
+      <div class="w3-third">
         <p>Gail Martin</p>
-        <a href="#"><img src="{{ site.baseurl }}/img/placeholder.png" class="w3-round" alt="placeholder" style="width:60%"></a>
+        <!--<a href="#"><img src="{{ site.baseurl }}/img/placeholder.png" class="w3-round" alt="placeholder" style="width:60%"></a>-->
       </div>
       <div class="w3-third">
         <p>Charles Ordahl</p>
-        <a href="#"><img src="{{ site.baseurl }}/img/placeholder.png" class="w3-round w3-margin-bottom" alt="placeholder" style="width:60%"></a>
-      </div>
-      <div class="w3-third">
-        <p>Roger Pedersen</p>
-        <a href="#"><img src="{{ site.baseurl }}/img/placeholder.png" class="w3-round w3-margin-bottom" alt="placeholder" style="width:60%"></a>
+        <!--<a href="#"><img src="{{ site.baseurl }}/img/placeholder.png" class="w3-round w3-margin-bottom" alt="placeholder" style="width:60%"></a>-->
       </div>
     </div>
     </div>
@@ -149,16 +148,16 @@ permalink: /faculty/
     <div class="w3-container w3-content w3-center w3-padding-12" style="max-width:800px">
     <div class="w3-row w3-padding-32">
       <div class="w3-third">
+        <p>Roger Pedersen</p>
+        <!--<a href="#"><img src="{{ site.baseurl }}/img/placeholder.png" class="w3-round w3-margin-bottom" alt="placeholder" style="width:60%"></a>-->
+      </div>
+      <div class="w3-third">
         <p>Peter Ralston</p>
-        <a href="#"><img src="{{ site.baseurl }}/img/placeholder.png" class="w3-round" alt="placeholder" style="width:60%"></a>
+        <!--<a href="#"><img src="{{ site.baseurl }}/img/placeholder.png" class="w3-round" alt="placeholder" style="width:60%"></a>-->
       </div>
       <div class="w3-third">
         <p>Steven Rosen</p>
-        <a href="#"><img src="{{ site.baseurl }}/img/placeholder.png" class="w3-round w3-margin-bottom" alt="placeholder" style="width:60%"></a>
-      </div>
-      <div class="w3-third">
-        <p>Douglas Schmucker</p>
-        <a href="#"><img src="{{ site.baseurl }}/img/placeholder.png" class="w3-round w3-margin-bottom" alt="placeholder" style="width:60%"></a>
+        <!--<a href="#"><img src="{{ site.baseurl }}/img/placeholder.png" class="w3-round w3-margin-bottom" alt="placeholder" style="width:60%"></a>-->
       </div>
     </div>
     </div>
@@ -166,8 +165,12 @@ permalink: /faculty/
     <div class="w3-container w3-content w3-center w3-padding-12" style="max-width:800px">
     <div class="w3-row w3-padding-32">
       <div class="w3-third">
+        <p>Douglas Schmucker</p>
+        <!--<a href="#"><img src="{{ site.baseurl }}/img/placeholder.png" class="w3-round w3-margin-bottom" alt="placeholder" style="width:60%"></a>-->
+      </div>
+      <div class="w3-third">
         <p>Sexton Sutherland</p>
-        <a href="#"><img src="{{ site.baseurl }}/img/placeholder.png" class="w3-round" alt="placeholder" style="width:60%"></a>
+        <!--<a href="#"><img src="{{ site.baseurl }}/img/placeholder.png" class="w3-round" alt="placeholder" style="width:60%"></a>-->
       </div>
     </div>
     </div>

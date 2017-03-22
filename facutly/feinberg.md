@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Evan Feinberg
-permalink: /Feinberg/
+permalink: /feinberg/
 ---
 
 <!-- Page content -->

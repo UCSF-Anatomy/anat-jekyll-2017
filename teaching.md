@@ -20,7 +20,7 @@ permalink: /teaching/
           <img src="{{ site.baseurl }}/img/Dhillon.jpg" class="w3-round w3-margin-bottom" alt="Nripendra Dhillon" style="width:60%">
         </div>
         <div class="w3-third">
-          <p>Annemarie Donjacour PhD</p>
+          <p>Annemarie Donjacour, PhD</p>
           <img src="{{ site.baseurl }}/img/Donjacour.jpg" class="w3-round w3-margin-bottom" alt="Annemarie Donjacour" style="width:60%">
         </div>
         <div class="w3-third">
