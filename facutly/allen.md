@@ -10,7 +10,7 @@ permalink: /allen/
   <div class="w3-light-grey w3-padding-64" id="about">
 
 
-    <!-- Blog entry -->
+    <!-- Blog entry-->
     <div class="w3-card-4 w3-margin w3-white">
   	<div id="profiles_photo_container"></div>
       <div class="w3-container w3-padding-8">
@@ -23,7 +23,7 @@ permalink: /allen/
 <h2>Lab Website</h2>
   <ul>
       <li id=""><a href="http://sabre.ucsf.edu/faculty/christopher_allen.html">Allen Lab Website</a></li>
-  </ul>
+</ul>
 
         <h2>Connect</h2>
     	  <ul>

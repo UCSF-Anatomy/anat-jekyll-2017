@@ -3,53 +3,71 @@ layout: default
 ---
 <!-- Page content -->
 
-<div class="w3-content w3-padding" style="max-width:1564px">
+<!--NEW HOMEPAGE CONTENT HERE-->
 
+<!--WELCOME!-->
 
-
-<!-- another 3 col layout -->
-
-<div class="w3-row-padding w3-center w3-margin-top">
-
-  <div class="w3-third">
-    <div class="w3-card-2 w3-padding-top" style="min-height:460px">
-    <span class="w3-tag"><h4>Recent News</h4></span><br>
-    <a href="{{ site.baseurl }}/news"><img src="img/cell1.jpg" alt="cell image" style="width:75%"></a>
-<!--blog news here
-    <p>news feed here</p>
-    <p>more interesting info</p>
-    <p>Read More...</p>
-  -->
-
-  <ul class="post">
-    {% for post in site.posts %}
-      <li>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
-
-        <h5>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-        </h5>
-      </li>
-    {% endfor %}
-  </ul>
-
-    </div>
-  </div>
-
-  <div class="w3-third">
-    <div class="w3-card-2 w3-padding-top w3-content w3-padding-64" style="min-height:460px">
-    <span class="w3-tag"><h4>About Us</h4></span><br>
-    <a href="{{ site.baseurl }}/about"><img src="img/cell2.jpg" alt="cell image" style="width:75%"></a>
-    <p>The Department of Anatomy includes 23 faculty members with primary full-time appointments, 16 faculty with joint appointments, and about 200 postdoctoral fellows and students engaged in research that covers questions in cell biology, developmental biology and the neurosciences. Faculty have laboratories at both the Parnassus Heights campus, where there is a focus of interest in cancer biology, and at the Mission Bay campus, where many of the neurobiology faculty are located. The administrative office of the Department is located at the Parnassus Heights campus. </p>
-    </div>
-  </div>
-
-  <div class="w3-third">
-    <div class="w3-card-2 w3-padding-top" style="min-height:460px">
-    <span class="w3-tag"><h4>Student Profile</h4></span><br>
-    <a href="{{ site.baseurl }}/profile"><img src="img/erica.jpg" alt="Erica Sanchez Picture" style="width:75%"></a>
-    <p>Here is a profile on this months Graduate Student Erica Sanchez in the Perrera Lab read more....</p>
-    </div>
-    </div>
-    </div>
+<!-- Container (About Section) -->
+<div class="w3-content w3-container w3-padding-16" id="about">
+  <h3 class="w3-center">Department of Anatomy</h3>
+  <p class="w3-center"><em>University of California San Francisco</em></p>
+  <p>The Department of Anatomy includes 23 faculty members with primary full-time appointments, 16 faculty with joint appointments, and about 200 postdoctoral fellows and students engaged in research that covers questions in cell biology, developmental biology and the neurosciences. Faculty have laboratories at both the Parnassus Heights campus, where there is a focus of interest in cancer biology, and at the Mission Bay campus, where many of the neurobiology faculty are located. The administrative office of the Department is located at the Parnassus Heights campus. </p>
 </div>
+<!-- Grid Content Here -->
+  <div class="w3-row-padding w3-content w3-container w3-padding-16">
+    <div class="w3-col m8 w3-margin-bottom">
+      <div class="w3-light-grey">
+        <div class="w3-panel w3-grey">
+          <h3>Recent News</h3>
+        </div>
+        <a href="{{ site.baseurl }}/news"><img src="img/cell1.jpg" alt="cell image" style="width:100%"></a>
+
+          <div class="w3-container">
+            <ul class="post">
+              {% for post in site.posts %}
+                <li>
+                  <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+
+                  <h5>
+                    <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+                  </h5>
+                </li>
+              {% endfor %}
+            </ul>
+        </div>
+      </div>
+    </div>
+
+    <div class="w3-col m4 w3-margin-bottom">
+      <div class="w3-light-grey">
+        <div class="w3-panel w3-grey">
+          <h3>About Us</h3>
+        </div>
+        <a href="{{ site.baseurl }}/about"><img src="img/cell2.jpg" alt="cell image" style="width:100%"></a>
+
+        <div class="w3-container">
+          <p class="w3-opacity">Contact Info:</p>
+          <p>Department Chair: Dr. Allan Basbaum</p>
+          <p>Director: Maggie Millett</p>
+          <p>513 Parnassus Avenue, S-1334 Box 0452 <br>San Francisco, CA 94143-0452 Fax: 415 476-4845</p>
+        </div>
+      </div>
+    </div>
+
+
+    <div class="w3-col m4 w3-margin-bottom">
+      <div class="w3-light-grey">
+        <div class="w3-panel w3-grey">
+          <h3>Student Profile</h3>
+        </div>
+        <a href="{{ site.baseurl }}/profile"><img src="img/erica.jpg" alt="Erica Sanchez Picture" style="width:100%"></a>
+        <div class="w3-container">
+          <p class="w3-opacity">Erica Sanchez</p>
+          <p>Here is a profile on this months Graduate Student Erica Sanchez in the Perrera Lab....</p>
+          <p>READ MORE</p>
+        </div>
+      </div>
+    </div>
+  </div>
+
+<!-- End page content -->
