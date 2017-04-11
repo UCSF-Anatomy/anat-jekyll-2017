@@ -7,16 +7,29 @@ permalink: /basbaum2/
 <!-- Page content -->
 <!-- Insert Profiles data here -->
 
-<!-- Grid -->
-<div class="w3-light-grey w3-padding-64" id="about">
+<!-- Page content -->
+<!-- Insert Profiles data here -->
 
+<!-- Grid -->
+
+<!--DEFAULT  <div class="w3-light-grey w3-padding-64" id="about">-->
+
+
+
+<!--<div class="w3-container w3-card-2 w3-light-grey w3-cell" style="width:50%" id="about">-->
+
+<!--lets put this whole thing in a container-->
+<div class="w3-content">
+
+<div class="w3-col m6 w3-margin-bottom">
 
     <!-- Blog entry -->
-    <div class="w3-card-4 w3-margin w3-white">
+
   	<div id="profiles_photo_container">photo</div>
-      <div class="w3-container w3-padding-8">
+
         <h4 id="profiles_name">name</h4>
         <p id="profiles_narrative">narrative</p>
+
 <!-- add lab website link-->
 
 
@@ -30,12 +43,25 @@ permalink: /basbaum2/
     	    <li id="profiles_email_link_container">email</li>
     	    <li id="profiles_page_link_container">website</li>
     	  </ul>
+</div>
 
-    	  <div id="profiles_awards"><h2>Awards</h2></div>
-    	  <div id="profiles_publications"><h2>Publications</h2></div>
+<!--<div class="w3-container w3-card-2 w3-light-grey w3-cell" style="width:50%">-->
+<div class="w3-col m6 w3-margin-bottom">
+
+    	  <div id="profiles_awards"><h2>Awards</h2>
+
+</div>
+</div>
+
+
+<div class="w3-col w3-light-grey">
+
+    	  <div id="profiles_publications"><h2>Publications</h2>
 
       </div>
     </div>
+
+
 
 <!-- load a recent version of jQuery -->
 <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
