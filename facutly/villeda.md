@@ -3,54 +3,68 @@ layout: default
 title: Saul Villeda
 permalink: /villeda/
 ---
-
 <!-- Page content -->
-<!-- Insert Profiles data here -->
 
-<!-- Grid -->
-  <div class="w3-light-grey w3-padding-64" id="about">
+<!--lets put this whole thing in a container-->
+<div class="w3-content">
 
+<div class="w3-col m6 w3-margin-bottom">
 
     <!-- Blog entry -->
-    <div class="w3-card-4 w3-margin w3-white">
-  	<div id="profiles_photo_container"></div>
-      <div class="w3-container w3-padding-8">
-        <h4 id="profiles_name"></h4>
-        <p id="profiles_narrative"></p>
+
+  	<div id="profiles_photo_container">photo</div>
+
+        <h4 id="profiles_name">name</h4>
+        <p id="profiles_narrative">narrative</p>
 
 <!-- add lab website link-->
 
 
 <h2>Lab Website</h2>
   <ul>
-      <li id=""><a href="http://villedalab.ucsf.edu/">Villeda Lab Website</a></li>
+    <li id=""><a href="http://villedalab.ucsf.edu/">Villeda Lab Website</a></li>
   </ul>
-
+<div class="w3-container w3-white"></div>
         <h2>Connect</h2>
-    	  <ul>
-    	    <li id="profiles_email_link_container"></li>
-    	    <li id="profiles_page_link_container"></li>
+    	  <ul class="ul.w3-ul">
+    	    <li id="profiles_email_link_container">email</li>
+    	    <li id="profiles_page_link_container">website</li>
     	  </ul>
+</div>
 
-    	  <div id="profiles_awards"><h2>Awards</h2></div>
-    	  <div id="profiles_publications"><h2>Publications</h2></div>
+<!-- add lab awards link-->
+
+<div class="w3-col m6 w3-margin-bottom">
+
+    	  <div id="profiles_awards"><h2>Awards</h2>
+
+</div>
+</div>
+
+<!-- add lab publications link-->
+
+<div class="w3-col w3-light-grey">
+
+    	  <div id="profiles_publications"><h2>Publications</h2>
 
       </div>
     </div>
 
+
+
 <!-- load a recent version of jQuery -->
 <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+
 <!-- get data from the UCSF Profiles API -->
-      <script>
+<script>
+// we're grabbing data from the UCSF Profiles JSON API v2
+// details at http://opendata.profiles.ucsf.edu/json-v2.html
 
-      // we're grabbing data from the UCSF Profiles JSON API v2
-      // details at http://opendata.profiles.ucsf.edu/json-v2.html
-
-      // we get the Profiles URL name from the URL, e.g. "http://profiles.ucsf.edu/jeanette.brown"
-      // but you can also specify people by FNO, Profiles ID, Employee ID, etc.
-        add_profiles_user_content('ProfilesURLName', 'saul.villeda');
-      // for example try commenting out the line above, and uncommenting the line below
-      // add_profiles_user_content('FNO', 'Jeffrey.Bluestone@ucsf.edu');
+// we get the Profiles URL name from the URL, e.g. "http://profiles.ucsf.edu/jeanette.brown"
+// but you can also specify people by FNO, Profiles ID, Employee ID, etc.
+    add_profiles_user_content('ProfilesURLName', 'saul.villeda');
+// for example try commenting out the line above, and uncommenting the line below
+// add_profiles_user_content('FNO', 'Jeffrey.Bluestone@ucsf.edu');
 
       function add_profiles_user_content (identifier_type, identifier) {
           $.getJSON('http://api.profiles.ucsf.edu/json/v2/?source=JSON_API_v2_example_script_change_this_in_your_own_app&' + identifier_type + '=' + identifier + '&callback=?',
@@ -137,5 +151,5 @@ permalink: /villeda/
       </script>
 
 
-</div>
+
 <!-- End page content -->

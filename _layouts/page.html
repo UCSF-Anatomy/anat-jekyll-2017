@@ -1,15 +1,15 @@
 ---
 layout: default
 ---
-
+<!--
 <article class="w3-container">
-<br><br><br>
+<div>
   <header class="w3-container w3-blue-grey">
     <h1 class="w3-center">{{ page.title }}</h1>
   </header>
 
 <br><br><br>
-
+</div>
 <h2 class="w3-padding w3-white"></h2>
 
 
@@ -25,9 +25,14 @@ layout: default
 
 
 <div class="w3-content w3-padding" style="max-width:1564px">
+</div>
+-->
+<div>
+
+<h1 class="w3-content w3-container w3-padding">{{ page.title }}</h1>
 
 
-    <div class="w3-container w3-content w3-center w3-padding-12" style="max-width:800px">
-      <h2 class="w3-wide">Our Faculty</h2>
-      <p class="w3-opacity"><i>Basic Science Labs</i></p>
-      <p class="w3-justify">The faculty includes members of the National Academy of Sciences, the Institute of Medicine, the American Academy of Arts and Sciences, and Royal Society of London. In addition to their research effort, the faculty is committed to graduate and professional school education, with contributions to the medical, pharmacy and physical therapy students, as well as programs in continuing medical education. The Department is the administrative home of the Willed Body Program. </p>
+<div class="w3-content" style="position:relative">
+  {{ content }}
+</div>
+</div>

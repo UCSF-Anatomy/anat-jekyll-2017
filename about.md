@@ -1,5 +1,5 @@
 ---
-layout: page2
+layout: page
 title: About Us
 permalink: /about/
 ---
@@ -18,23 +18,23 @@ Fax: 415 476-4845
 
 Staff          | Position                       | UCSF Directory   
 -------------  | ----------------------------   | -----------
-An Chau	| Finance | [Link](https://directory.ucsf.edu/?q=An+Chau)
-Andrew Corson  | Director Willed Body Program| [Link](https://directory.ucsf.edu/?q=Andrew+Corson)
-Andy Dang  | Assistant to Zena Werb, Jeroen Roose, Rushika Perera, Jason Rock, Saul Villeda| [Link](https://directory.ucsf.edu/?q=Andy+Dang)
-Claudette Delva Blanco	| Technician, Willed Body Program | [Link](https://directory.ucsf.edu/?q=Claudette+Delva)
-Linda Toschi-Chambers	|	Assistant to Allan Basbaum, Carolyn Larabell, Evan Feinberg | [Link](https://directory.ucsf.edu/?q=Linda+Toschi-Chambers)
-Josie Gonzales	   | Grants Administrator		|     [Link](https://directory.ucsf.edu/?q=josie+gonzales)
-TBN	|	Teaching Support	|	[Link](https://directory.ucsf.edu/?q=minerva+lee)
-Laurie Long   |  Assistant to Donald McDonald | [Link](https://directory.ucsf.edu/?q=Laurie+Long)
-Karl McElroy  | Technician, Willed Body Program | [Link](https://directory.ucsf.edu/?q=Karl+McElroy)
-Maggie Millett | Director	| [Link](https://directory.ucsf.edu/?q=Maggie+Millett)
-Lisa Poon	| Operations Analyst | [Link](https://directory.ucsf.edu/?q=lisa+poon)
-Peter Werba	| Server Administration | [Link](https://directory.ucsf.edu/?q=Peter+Werba)
-Reina Zavala	| Willed Body Administration | [Link](https://directory.ucsf.edu/?q=Reina+Zavala)
+An Chau	| Finance | [Link](https://directory.ucsf.edu/people/search/id/14822)
+Andrew Corson  | Director Willed Body Program| [Link](https://directory.ucsf.edu/people/search/id/2478)
+Andy Dang  | Assistant to Zena Werb, Jeroen Roose, Rushika Perera, Jason Rock, Saul Villeda| [Link](https://directory.ucsf.edu/people/search/id/3943)
+Claudette Delva Blanco	| Technician, Willed Body Program | [Link](https://directory.ucsf.edu/people/search/id/131433)
+Linda Toschi-Chambers	|	Assistant to Allan Basbaum, Carolyn Larabell, Evan Feinberg | [Link](https://directory.ucsf.edu/people/search/id/129954)
+Josie Gonzales	   | Grants Administrator		|     [Link](https://directory.ucsf.edu/people/search/id/42963)
+TBN	|	Teaching Support	|	[Link](https://directory.ucsf.edu)
+Laurie Long   |  Assistant to Donald McDonald | [Link](https://directory.ucsf.edu/people/search/id/134)
+Karl McElroy  | Technician, Willed Body Program | [Link](https://directory.ucsf.edu/people/search/id/46086)
+Maggie Millett | Director	| [Link](https://directory.ucsf.edu/people/search/id/56271)
+Lisa Poon	| Operations Analyst | [Link](https://directory.ucsf.edu/people/search/id/29884)
+Peter Werba	| Server Administration | [Link](https://directory.ucsf.edu/people/search/id/53358)
+Reina Zavala	| Willed Body Administration | [Link](https://directory.ucsf.edu/people/search/id/54636)
 
 -------------------
 
-## HISTORICAL DEVELOPMENT
+## Department History
 
 The Department of Anatomy had its beginnings in Toland Medical College, which was founded in 1864, and became the Medical Department of the University of California in 1873.  Insofar as can be determined from the records available in its history of over one hundred years, there have been the following chairmen:
 

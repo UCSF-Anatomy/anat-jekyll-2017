@@ -1,22 +1,10 @@
 ---
 layout: default
-title: Allan Basbaum
-permalink: /basbaum2/
+title: Kim Topp
+permalink: /topp/
 ---
 
 <!-- Page content -->
-<!-- Insert Profiles data here -->
-
-<!-- Page content -->
-<!-- Insert Profiles data here -->
-
-<!-- Grid -->
-
-<!--DEFAULT  <div class="w3-light-grey w3-padding-64" id="about">-->
-
-
-
-<!--<div class="w3-container w3-card-2 w3-light-grey w3-cell" style="width:50%" id="about">-->
 
 <!--lets put this whole thing in a container-->
 <div class="w3-content">
@@ -35,7 +23,7 @@ permalink: /basbaum2/
 
 <h2>Lab Website</h2>
   <ul>
-      <li id=""><a href="http://basbaumlab.ucsf.edu">Basbaum Lab Website</a></li>
+      <li id=""><a href="http://ptrehab.ucsf.edu/kimberly-s-topp-pt-phd-faaa">Kim Topp UCSF</a></li>
   </ul>
 <div class="w3-container w3-white"></div>
         <h2>Connect</h2>
@@ -45,7 +33,8 @@ permalink: /basbaum2/
     	  </ul>
 </div>
 
-<!--<div class="w3-container w3-card-2 w3-light-grey w3-cell" style="width:50%">-->
+<!-- add lab awards link-->
+
 <div class="w3-col m6 w3-margin-bottom">
 
     	  <div id="profiles_awards"><h2>Awards</h2>
@@ -53,6 +42,7 @@ permalink: /basbaum2/
 </div>
 </div>
 
+<!-- add lab publications link-->
 
 <div class="w3-col w3-light-grey">
 
@@ -73,7 +63,7 @@ permalink: /basbaum2/
 
 // we get the Profiles URL name from the URL, e.g. "http://profiles.ucsf.edu/jeanette.brown"
 // but you can also specify people by FNO, Profiles ID, Employee ID, etc.
-    add_profiles_user_content('ProfilesURLName', 'allan.basbaum');
+    add_profiles_user_content('ProfilesURLName', 'kimberly.topp');
 // for example try commenting out the line above, and uncommenting the line below
 // add_profiles_user_content('FNO', 'Jeffrey.Bluestone@ucsf.edu');
 
