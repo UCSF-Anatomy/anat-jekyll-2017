@@ -75,7 +75,7 @@ permalink: /faculty/
     </div>
     <div class="w3-third">
       <p>Kim Topp</p>
-      <a href="{{ site.baseurl }}/topp"><img src="{{ site.baseurl }}/img/topp.jpg" class="w3-round w3-margin-bottom" alt="Saul Vileda" style="width:60%"></a>
+      <a href="{{ site.baseurl }}/topp"><img src="{{ site.baseurl }}/img/Topp.jpg" class="w3-round w3-margin-bottom" alt="Kim Topp" style="width:60%"></a>
     </div>
   </div>
   </div>
