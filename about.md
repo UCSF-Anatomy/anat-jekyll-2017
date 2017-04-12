@@ -5,7 +5,7 @@ permalink: /about/
 ---
 ![parnassus heights photo](../img/parnassus.jpg)
 
-### Chair: Allan Basbaum
+### Chair: Allan Basbaum PhD, FRS
 
 #### Director: Maggie Millett
 

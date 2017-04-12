@@ -69,13 +69,6 @@ permalink: /affiliated/
       <a href="http://profiles.ucsf.edu/julie.sneddon"><img src="{{ site.baseurl }}/img/af_sneddon.jpg" class="w3-round w3-margin-bottom" alt="profiles_photo" style="width:60%"></a>
     </div>
     <div class="w3-third">
-<<<<<<< Updated upstream
-      <p>Valerie Weaver</p><p>Surgery</p>
-      <a href="http://profiles.ucsf.edu/valerie.weaver"><img src="{{ site.baseurl }}/img/af_weaver.jpg" class="w3-round w3-margin-bottom" alt="profiles_photo" style="width:60%"></a>
-    </div>
-    <div class="w3-third">
-=======
->>>>>>> Stashed changes
       <p>Allison Xu</p><p>Diabetes Center</p>
       <a href="http://profiles.ucsf.edu/allison.xu"><img src="{{ site.baseurl }}/img/af_xu.jpg" class="w3-round" alt="profiles_photo" style="width:60%"></a>
     </div>
