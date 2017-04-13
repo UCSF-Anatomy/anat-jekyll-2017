@@ -15,11 +15,11 @@ permalink: /affiliated/
       <div class="w3-row w3-padding-32">
         <div class="w3-third">
           <p>Rosemary Akhurst</p><p>Cancer Research Institute</p>
-          <a href="http://profiles.ucsf.edu/rosemary.akhurst"><img src="{{ site.baseurl }}/img/af_akhurst.jpg" class="w3-round w3-margin-bottom" alt="profiles_photo" style="width:60%"></a>
+          <a href="http://profiles.ucsf.edu/rosemary.akhurst"><img src="{{ site.baseurl }}/img/af_akhurst.jpg" class="w3-round" alt="profiles_photo" style="width:60%"></a>
         </div>
         <div class="w3-third">
           <p>Gabriele Bergers</p><p>Neurosurgery</p>
-          <a href="http://profiles.ucsf.edu/gabriele.bergers"><img src="{{ site.baseurl }}/img/af_bergers.jpg" class="w3-round w3-margin-bottom" alt="profiles_photo" style="width:60%"></a>
+          <a href="http://profiles.ucsf.edu/gabriele.bergers"><img src="{{ site.baseurl }}/img/af_bergers.jpg" class="w3-round" alt="profiles_photo" style="width:60%"></a>
         </div>
         <div class="w3-third">
           <p>Rik Derynck</p><p>Cell Tissue Biology</p>
@@ -32,11 +32,11 @@ permalink: /affiliated/
     <div class="w3-row w3-padding-32">
       <div class="w3-third">
         <p>Susan Fisher</p><p>Cell Tissue Biology</p>
-        <a href="http://profiles.ucsf.edu/susan.fisher"><img src="{{ site.baseurl }}/img/af_fisher.jpg" class="w3-round w3-margin-bottom" alt="profiles_photo" style="width:60%"></a>
+        <a href="http://profiles.ucsf.edu/susan.fisher"><img src="{{ site.baseurl }}/img/af_fisher.jpg" class="w3-round" alt="profiles_photo" style="width:60%"></a>
       </div>
       <div class="w3-third">
         <p>Douglas Gould</p><p>Ophthalmology</p>
-        <a href="http://profiles.ucsf.edu/douglas.gould"><img src="{{ site.baseurl }}/img/af_gould.png" class="w3-round w3-margin-bottom" alt="profiles_photo" style="width:60%"></a>
+        <a href="http://profiles.ucsf.edu/douglas.gould"><img src="{{ site.baseurl }}/img/af_gould.png" class="w3-round" alt="profiles_photo" style="width:60%"></a>
       </div>
       <div class="w3-third">
         <p>Diana Laird</p><p>Ob/Gyn, Reproductive Sciences</p>
@@ -49,11 +49,11 @@ permalink: /affiliated/
   <div class="w3-row w3-padding-32">
     <div class="w3-third">
       <p>Nancy McNamara</p><p>UC Berkley</p>
-      <a href="http://profiles.ucsf.edu/nancy.mcnamara"><img src="{{ site.baseurl }}/img/af_McNamara.jpg" class="w3-round w3-margin-bottom" alt="profiles_photo" style="width:60%"></a>
+      <a href="http://profiles.ucsf.edu/nancy.mcnamara"><img src="{{ site.baseurl }}/img/af_McNamara.jpg" class="w3-round" alt="profiles_photo" style="width:60%"></a>
     </div>
     <div class="w3-third">
       <p>Takashi Mikawa</p><p>CVRI</p>
-      <a href="http://profiles.ucsf.edu/takashi.mikawa"><img src="{{ site.baseurl }}/img/af_mikawa.jpg" class="w3-round w3-margin-bottom" alt="profiles_photo" style="width:60%"></a>
+      <a href="http://profiles.ucsf.edu/takashi.mikawa"><img src="{{ site.baseurl }}/img/af_mikawa.jpg" class="w3-round" alt="profiles_photo" style="width:60%"></a>
     </div>
     <div class="w3-third">
       <p>Licia Selleri</p><p>Orofacial Sciences</p>
@@ -66,7 +66,7 @@ permalink: /affiliated/
   <div class="w3-row w3-padding-32">
     <div class="w3-third">
       <p>Julie Sneddon</p><p>Diabetes center</p>
-      <a href="http://profiles.ucsf.edu/julie.sneddon"><img src="{{ site.baseurl }}/img/af_sneddon.jpg" class="w3-round w3-margin-bottom" alt="profiles_photo" style="width:60%"></a>
+      <a href="http://profiles.ucsf.edu/julie.sneddon"><img src="{{ site.baseurl }}/img/af_sneddon.jpg" class="w3-round" alt="profiles_photo" style="width:60%"></a>
     </div>
     <div class="w3-third">
       <p>Allison Xu</p><p>Diabetes Center</p>
@@ -74,7 +74,7 @@ permalink: /affiliated/
     </div>
     <div class="w3-third">
       <p>Shinya Yamanaka</p><p>Gladstone Institute</p>
-      <a href="http://profiles.ucsf.edu/shinya.yamanaka"><img src="{{ site.baseurl }}/img/af_yamanaka.jpg" class="w3-round w3-margin-bottom" alt="profiles_photo" style="width:60%"></a>
+      <a href="http://profiles.ucsf.edu/shinya.yamanaka"><img src="{{ site.baseurl }}/img/af_yamanaka.jpg" class="w3-round" alt="profiles_photo" style="width:60%"></a>
     </div>
   </div>
   </div>

@@ -17,15 +17,15 @@ permalink: /teaching/
       <div class="w3-row w3-padding-32">
         <div class="w3-third">
           <p>Nripendra Dhillon, MBBS</p>
-          <img src="{{ site.baseurl }}/img/Dhillon.jpg" class="w3-round w3-margin-bottom" alt="Nripendra Dhillon" style="width:60%">
+          <a href="{{ site.baseurl }}/Dhillon"><img src="{{ site.baseurl }}/img/Dhillon.jpg" class="w3-round" alt="Nripendra Dhillon" style="width:60%"></a>
         </div>
         <div class="w3-third">
           <p>Annemarie Donjacour, PhD</p>
-          <img src="{{ site.baseurl }}/img/Donjacour.jpg" class="w3-round w3-margin-bottom" alt="Annemarie Donjacour" style="width:60%">
+          <a href="{{ site.baseurl }}/Donjacour"><img src="{{ site.baseurl }}/img/Donjacour.jpg" class="w3-round" alt="Annemarie Donjacour" style="width:60%"></a>
         </div>
         <div class="w3-third">
           <p>Amber Fitzsimmons, PT</p>
-          <img src="{{ site.baseurl }}/img/Fitzsimmons.jpg" class="w3-round" alt="Amber Fitzsimmons" style="width:60%">
+          <a href="{{ site.baseurl }}/Fitzsimmons"><img src="{{ site.baseurl }}/img/Fitzsimmons.jpg" class="w3-round" alt="Amber Fitzsimmons" style="width:60%"></a>
         </div>
       </div>
     </div>
@@ -34,15 +34,15 @@ permalink: /teaching/
     <div class="w3-row w3-padding-32">
       <div class="w3-third">
         <p>Derek Harmon, PhD</p>
-        <img src="{{ site.baseurl }}/img/Harmon.jpg" class="w3-round w3-margin-bottom" alt="Derek Harmon" style="width:60%">
+        <a href="{{ site.baseurl }}/Harmon"><img src="{{ site.baseurl }}/img/Harmon.jpg" class="w3-round" alt="Derek Harmon" style="width:60%"></a>
       </div>
       <div class="w3-third">
         <p>Peter Ohara, PhD</p>
-        <img src="{{ site.baseurl }}/img/Ohara.jpg" class="w3-round w3-margin-bottom" alt="Peter Ohara" style="width:60%">
+        <a href="{{ site.baseurl }}/Ohara"><img src="{{ site.baseurl }}/img/Ohara.jpg" class="w3-round" alt="Peter Ohara" style="width:60%"></a>
       </div>
       <div class="w3-third">
         <p>Dana Rohde, PhD</p>
-        <img src="{{ site.baseurl }}/img/Rohde.jpg" class="w3-round w3-margin-bottom" alt="Dana Rohde" style="width:60%">
+        <a href="{{ site.baseurl }}/Rohde"><img src="{{ site.baseurl }}/img/Rohde.jpg" class="w3-round" alt="Dana Rohde" style="width:60%"></a>
       </div>
 
     </div>
@@ -52,11 +52,11 @@ permalink: /teaching/
   <div class="w3-row w3-padding-32">
     <div class="w3-third">
       <p>Betty Smoot, PT</p>
-      <img src="{{ site.baseurl }}/img/Smoot.jpg" class="w3-round" alt="Betty Smoot" style="width:60%">
+      <a href="{{ site.baseurl }}/Smoot"><img src="{{ site.baseurl }}/img/Smoot.jpg" class="w3-round" alt="Betty Smoot" style="width:60%"></a>
     </div>
     <div class="w3-third">
       <p>Kimberly Topp, PhD</p>
-      <img src="{{ site.baseurl }}/img/Topp.jpg" class="w3-round w3-margin-bottom" alt="banmember1" style="width:60%">
+      <a href="{{ site.baseurl }}/Topp"><img src="{{ site.baseurl }}/img/Topp.jpg" class="w3-round" alt="banmember1" style="width:60%"></a>
     </div>
   </div>
   </div>
@@ -68,7 +68,7 @@ permalink: /teaching/
       <div class="w3-row w3-padding-32">
         <div class="w3-third">
           <p>Jillian Giblin, Administrator</p>
-          <img src="{{ site.baseurl }}/img/Giblin.jpg" class="w3-round w3-margin-bottom" alt="Jillian Giblin" style="width:60%">
+          <img src="{{ site.baseurl }}/img/Giblin.jpg" class="w3-round" alt="Jillian Giblin" style="width:60%">
         </div>
     </div>
 <!--end of the staff section-->
