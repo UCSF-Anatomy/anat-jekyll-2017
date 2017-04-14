@@ -56,7 +56,7 @@ permalink: /teaching/
     </div>
     <div class="w3-third">
       <p>Kimberly Topp, PhD</p>
-      <a href="{{ site.baseurl }}/Topp"><img src="{{ site.baseurl }}/img/Topp.jpg" class="w3-round" alt="banmember1" style="width:60%"></a>
+      <a href="{{ site.baseurl }}/topp"><img src="{{ site.baseurl }}/img/Topp.jpg" class="w3-round" alt="banmember1" style="width:60%"></a>
     </div>
   </div>
   </div>
