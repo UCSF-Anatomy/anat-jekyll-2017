@@ -1,8 +1,9 @@
 ---
-layout: post
+layout: page
 title:  "Anatomy Department donates Histology slides"
 date:   2016-04-14 13:53:00
 categories: news
+published: true
 ---
 
 
@@ -26,7 +27,7 @@ Best regards,
 
 Jennifer
 
-Jennifer Breckler, PhD 
+Jennifer Breckler, PhD
 Professor, Department of Biology
 San Francisco State University
 
@@ -43,5 +44,3 @@ Nina
 Nina Zanetti, Professor of Biology
 Siena College
 Loudonville, NY
-
-

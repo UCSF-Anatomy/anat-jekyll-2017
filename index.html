@@ -24,7 +24,7 @@ layout: default
 
           <div class="w3-container">
             <ul class="post">
-              {% for post in site.posts %}
+              {% for post in site.categories.news limit:4 %}
                 <li>
                   <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
 
@@ -34,6 +34,7 @@ layout: default
                 </li>
               {% endfor %}
             </ul>
+            <a id="more-news" href="{{BASE_PATH}}/news">more news <i class="fa fa-arrow-right" aria-hidden="true"></i></a><br />
         </div>
       </div>
     </div>
@@ -60,11 +61,11 @@ layout: default
         <div class="w3-panel w3-grey">
           <h3>Student Profile</h3>
         </div>
-        <a href="{{ site.baseurl }}/profile"><img src="img/erica.jpg" alt="Erica Sanchez Picture" style="width:100%"></a>
+        <a href="{{ site.baseurl }}/profile"><img src="img/Andrea.jpg" alt="Andrea EastesPicture" style="width:100%"></a>
         <div class="w3-container">
           <p class="w3-opacity">Erica Sanchez</p>
-          <p>Here is a profile on this months Graduate Student Erica Sanchez in the Perera Lab....</p>
-          <p>READ MORE</p>
+          <p>Here is a profile on this months Graduate Student Andrea Eastes in the Perera Lab....</p>
+          <a id="more-news" href="/profile">READ MORE<i class="fa fa-arrow-right" aria-hidden="true"></i></a><br />
         </div>
       </div>
     </div>
