@@ -106,7 +106,6 @@ permalink: /faculty/
             <p>Patricia Calarco</p>
             <p>Jerry Cunha</p>
             <p>Robert Hamilton Jr.</p>
-            <p>Albert Jones</p>
             <p>Jennifer LaVail</p>
             <p>Matthew LaVail</p>
             <p>Gail Martin</p>
