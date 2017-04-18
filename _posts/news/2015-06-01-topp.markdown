@@ -1,0 +1,14 @@
+---
+layout: page
+title:  "Teaching Honors"
+date:   2015-01-01 12:53:00
+categories: news
+published: true
+---
+Congratulations to our own Kimberly Topp, PhD
+
+[Kimberly Topp](http://profiles.ucsf.edu/kimberly.topp)
+
+2015 Honorary Fellow of the Anatomical Society (Great Britain and Ireland)
+
+2015 President of the American Association of Anatomists

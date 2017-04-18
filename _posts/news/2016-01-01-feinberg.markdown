@@ -1,0 +1,11 @@
+---
+layout: page
+title:  "Evan Feinberg awarded 2016 Recipient of grants from the Ziegler Foundation for the Blind as well a Klingenstein-Simons Fellowship Award in the Neurosciences and received a NARSAD Young Investigator Award"
+date:   2016-01-01 13:53:00
+categories: news
+published: true
+---
+Congratulations to our own Evan Feinberg, PhD for being awarded 2016 Recipient of grants from the Ziegler Foundation for the Blind as well a Klingenstein-Simons Fellowship Award in the Neurosciences and received a NARSAD Young Investigator Award
+
+Here is a [link to the Ziegler award.](http://emzfoundation.com/?p=347)
+For more information please look at Rushika's [profiles page](http://profiles.ucsf.edu/evan.feinberg)

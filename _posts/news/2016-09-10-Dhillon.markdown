@@ -1,0 +1,10 @@
+---
+layout: page
+title:  "Nripendra Dhillon awarded 2016 Essential Core Teaching Award for Commitment to Teaching"
+date:   2016-08-10 13:53:00
+categories: news
+published: true
+---
+Congratulations to our own Nripendra Dhillon, MBBS, MS for being awarded 2016 Essential Core Teaching Award for Commitment to Teaching.
+
+For more information please look at Nripenda's [profiles page](http://profiles.ucsf.edu/nripendra.dhillon)

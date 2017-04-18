@@ -1,0 +1,12 @@
+---
+layout: page
+title:  "Zena Werb Awarded 2016 Inaugural Fellow of the American Society for Cell Biology"
+date:   2016-08-10 13:53:00
+categories: news
+published: true
+---
+Congratulations to our own Zena Werb, PhD for being awarded 2016 Inaugural Fellow of the American Society for Cell Biology.
+
+Here is a [link to the ACSB award.] (http://www.ascb.org/newsletter/novemberdecember-2016-newsletter/ascb-elects-39-lifetime-achievement-fellows-program-november-december-2016-newsletter/)
+
+For more information please look at Zena's [profiles page](http://profiles.ucsf.edu/zena.werb)

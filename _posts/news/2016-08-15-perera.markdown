@@ -1,0 +1,12 @@
+---
+layout: page
+title:  "Rushika Perera awarded 2016 Recipient of an NIH New Innovator Award as well as a special grant from the Pancreatic Cancer Action Network"
+date:   2016-08-10 13:53:00
+categories: news
+published: true
+---
+Congratulations to our own Rushika Perera, PhD for being awarded 2016 Inaugural Fellow of the American Society for Cell Biology.
+
+Here is a [link to the NIH award.](https://commonfund.nih.gov/newinnovator/Recipients16)
+
+For more information please look at Rushika's [profiles page](http://profiles.ucsf.edu/rushika.perera)

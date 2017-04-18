@@ -1,0 +1,10 @@
+---
+layout: page
+title:  "2016 Excellence in Teaching Award from the Academy of Medical Educators"
+date:   2016-08-10 13:53:00
+categories: news
+published: true
+---
+Congratulations to our own Derek Harmon, PhD for being awarded 22016 Excellence in Teaching Award from the Academy of Medical Educators
+
+For more information please look at Derek's [profiles page](http://profiles.ucsf.edu/derek.harmon)
