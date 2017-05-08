@@ -62,3 +62,24 @@ At the turn of the century, Dr. J. Marshall Flint, with the assistance of Drs. R
 The earthquake of 1906 damaged the Medical School buildings to such an extent that the Basic Science departments were transferred temporarily to the Berkeley campus; in the case of the Department of Anatomy, this period of exile lasted 52 years.
 
 Today the department performs research and teaching from the Parnassus and Mission Bay campuses.
+
+### UCSF Links
+
+[Stem Cell](http://irm.ucsf.edu/)
+
+[Limited Submission Funding Opportunities](http://or.ucsf.edu/cg/cg/faculty/funding/Limited_Submissions/Current_LSOs.html)
+
+[Research Management Services](http://officeofresearch.ucsf.edu/rms)
+
+[UCSF Human Resources](http://hr.ucsf.edu/)
+
+[UCSF IT Help Service now](http://help.ucsf.edu)
+
+[UCSF Campus Maps](http://www.ucsf.edu/maps)
+
+[UCSF Shuttle Schedle "next bus"](https://www.nextbus.com/#!/ucsf)
+
+[S-1332 Conference Room](http://mail.ucsf.edu/OWA/calendar/375786cfe4aa44149720b46efb52030a@ucsf.edu/9caa67880e074f3986921ec90853a78018092195176913566149/calendar.html)
+
+[UC Learning Center](http://learning.ucsf.edu/)<br>
+[Learning Ceneter Brochure download](../img/LC.pdf)
