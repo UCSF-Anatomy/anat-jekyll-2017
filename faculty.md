@@ -66,10 +66,6 @@ permalink: /faculty/
   <div class="w3-container w3-content w3-center w3-padding-12" style="max-width:800px">
   <div class="w3-row w3-padding-32">
     <div class="w3-third">
-      <p>Jason Rock</p>
-      <a href="{{ site.baseurl }}/rock"><img src="{{ site.baseurl }}/img/rock.jpg" class="w3-round" alt="Jason Rock" style="width:60%"></a>
-    </div>
-    <div class="w3-third">
       <p>Jeroen Roose</p>
       <a href="{{ site.baseurl }}/roose"><img src="{{ site.baseurl }}/img/roose.jpg" class="w3-round w3-margin-bottom" alt="Jeroen Roose" style="width:60%"></a>
     </div>
@@ -77,15 +73,15 @@ permalink: /faculty/
       <p>Kim Topp</p>
       <a href="{{ site.baseurl }}/topp"><img src="{{ site.baseurl }}/img/Topp.jpg" class="w3-round w3-margin-bottom" alt="Kim Topp" style="width:60%"></a>
     </div>
+    <div class="w3-third">
+      <p>Saul Villeda</p>
+      <a href="{{ site.baseurl }}/villeda"><img src="{{ site.baseurl }}/img/villeda.jpg" class="w3-round" alt="Saul Villeda" style="width:60%"></a>
+    </div>
   </div>
   </div>
 
   <div class="w3-container w3-content w3-center w3-padding-12" style="max-width:800px">
   <div class="w3-row w3-padding-32">
-    <div class="w3-third">
-      <p>Saul Villeda</p>
-      <a href="{{ site.baseurl }}/villeda"><img src="{{ site.baseurl }}/img/villeda.jpg" class="w3-round" alt="Saul Villeda" style="width:60%"></a>
-    </div>
     <div class="w3-third">
       <p>Zena Werb</p>
       <a href="{{ site.baseurl }}/werb"><img src="{{ site.baseurl }}/img/werb.jpg" class="w3-round w3-margin-bottom" alt="Zena Werb" style="width:60%"></a>
