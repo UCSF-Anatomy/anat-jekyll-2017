@@ -18,7 +18,6 @@ Fax: 415 476-4845
 
 Staff          | Position                       | UCSF Directory   
 -------------  | ----------------------------   | -----------
-An Chau	| Finance | [Link](https://directory.ucsf.edu/people/search/id/14822)
 Andrew Corson  | Director Willed Body Program| [Link](https://directory.ucsf.edu/people/search/id/2478)
 Andy Dang  | Assistant to Zena Werb, Jeroen Roose, Rushika Perera, Jason Rock, Saul Villeda| [Link](https://directory.ucsf.edu/people/search/id/3943)
 Claudette Delva Blanco	| Technician, Willed Body Program | [Link](https://directory.ucsf.edu/people/search/id/131433)
