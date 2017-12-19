@@ -1,13 +1,13 @@
 ---
 layout: page
-title: Sumitra Tatapudy
+title: Darienne Myers
 permalink: /profile/
 ---
 
-**Bio:** Sumitra is currently a third year Tetrad student in the Nystul lab.  This year, she was a recipient of the Fletcher Jones Fellowship, which recognizes outstanding research achievement, and was elected Vice President of External Affairs for the UCSF Graduate and Professional Student Association. Prior to coming to UCSF, she graduated with honors from the University of California, Davis, receiving both a Bachelor of Arts in Psychology and a Bachelor of Science in Cell Biology.  At UC Davis, she worked as an undergraduate research assistant in several labs studying topics that ranged from zebrafish development, to plant biology, to the social factors that underlie racial disparities.  
+**Bio**: Darienne recently completed her Ph.D. in the Roose lab and is currently a post-doc there finishing a couple of exciting projects. During her Ph.D., she received an NSF graduate research fellowship and presented her work at local, national, and international conferences. She also serves as the Mentoring Events Chair for the Women in Life Sciences (WiLS) group at UCSF and writes scripts for educational whiteboard videos produced by Youreka Science. Prior to coming to UCSF, she worked as a research technician in Dr. Fred Alt’s lab at Children’s Hospital Boston, studying mechanisms of chromosome translocations in B lymphocytes. Outside of the lab, Darienne enjoys cooking, boxing, and traveling (and recently got to combine all these things in her post-graduation trip to Thailand!)
 
-**Current work:**  In the Nystul lab, Sumitra is investigating how epithelial stem cells are maintained during adulthood.  Her current research is aimed at understanding how mutations that affect cellular stress response pathways cause stem cells to become hypercompetitive and spread through the tissue at abnormally high rates.  This research will provide new insights into the genetic program that governs stem cell maintenance, and may be an important step toward the development of new cancer diagnostics that identify pre-cancerous stem cells before they develop into tumors.
+**Current work**: Darienne is studying the phenomenon of tonic signaling in T lymphocytes. Tonic signals are the low-level, constitutive signals T cells receive when they make contacts with self-antigens in the lymphoid organs. These tonic signals help maintain T cell quiescence (so they don’t attack self and cause autoimmunity) but also help “prime” these cells so they are able to rapidly become activated when they do encounter foreign antigen. Darienne is interested in what downstream cellular processes are impacted by tonic signaling (such as gene transcription, see Myers and Lau et al, Cell Reports 2017). Additionally, she is interested in understanding how perturbations in tonic signaling pathways (e.g. through mutations in signaling proteins) can lead to T cell autoreactivity; this will be important for our full understanding of the molecular basis of autoimmunity.
 
 
 
-![Sumitra Photo](../img/Sumitra.jpg)
+![Darienne's Photo](../img/myers.jpg)
