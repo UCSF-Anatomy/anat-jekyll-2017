@@ -19,11 +19,11 @@ Fax: 415 476-4845
 Staff          | Position                       | UCSF Directory   
 -------------  | ----------------------------   | -----------
 Andrew Corson  | Director Willed Body Program| [Link](https://directory.ucsf.edu/people/search/id/2478)
-Andy Dang  | Assistant to Zena Werb, Jeroen Roose, Rushika Perera, Jason Rock, Saul Villeda| [Link](https://directory.ucsf.edu/people/search/id/3943)
+Andy Dang  | Assistant to Zena Werb, Jeroen Roose, Rushika Perera, Todd Nystul, Saul Villeda| [Link](https://directory.ucsf.edu/people/search/id/3943)
 Claudette Delva Blanco	| Technician, Willed Body Program | [Link](https://directory.ucsf.edu/people/search/id/131433)
-Linda Toschi-Chambers	|	Assistant to Allan Basbaum, Carolyn Larabell, Evan Feinberg | [Link](https://directory.ucsf.edu/people/search/id/129954)
+Linda Toschi-Chambers	|	Assistant to Allan Basbaum, Carolyn Larabell, Chris Allen, Evan Feinberg | [Link](https://directory.ucsf.edu/people/search/id/129954)
 Josie Gonzales	   | Grants Administrator		|     [Link](https://directory.ucsf.edu/people/search/id/42963)
-TBN	|	Teaching Support	|	[Link](https://directory.ucsf.edu)
+Rosemarie Casella	|	Teaching Support	|	[Link](https://directory.ucsf.edu/people/search/id/7955)
 Laurie Long   |  Assistant to Donald McDonald | [Link](https://directory.ucsf.edu/people/search/id/134)
 Karl McElroy  | Technician, Willed Body Program | [Link](https://directory.ucsf.edu/people/search/id/46086)
 Maggie Millett | Director	| [Link](https://directory.ucsf.edu/people/search/id/56271)
