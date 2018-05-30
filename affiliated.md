@@ -46,7 +46,7 @@ permalink: /affiliated/
       </div>
 
       <div class="w3-third">
-        <p>Nancy McNamara</p><p>UC Berkley</p>
+        <p>Nancy McNamara</p><p>UC Berkeley</p>
         <a href="http://profiles.ucsf.edu/nancy.mcnamara"><img src="{{ site.baseurl }}/img/af_McNamara.jpg" class="w3-round" alt="profiles_photo" style="width:60%"></a>
       </div>
 
