@@ -7,7 +7,7 @@ permalink: /about/
 
 ### Chair: Allan Basbaum PhD, FRS
 
-#### Director: Maggie Millett
+#### Department Manger: Stephanie Louie
 
 Administration Offices
 513 Parnassus Avenue, S-1334  
@@ -24,9 +24,9 @@ Claudette Delva Blanco	| Technician, Willed Body Program | [Link](https://direct
 Linda Toschi-Chambers	|	Assistant to Allan Basbaum, Carolyn Larabell, Chris Allen, Evan Feinberg | [Link](https://directory.ucsf.edu/people/search/id/129954)
 Josie Gonzales	   | Grants Administrator		|     [Link](https://directory.ucsf.edu/people/search/id/42963)
 Rosemarie Casella	|	Teaching Support	|	[Link](https://directory.ucsf.edu/people/search/id/7955)
-Laurie Long   |  Assistant to Donald McDonald | [Link](https://directory.ucsf.edu/people/search/id/134)
+Marisa Jin  |  Assistant to Donald McDonald, Saul Villeda, Aging Institute | [Link](https://directory.ucsf.edu/people/search/id/159192)
 Karl McElroy  | Technician, Willed Body Program | [Link](https://directory.ucsf.edu/people/search/id/46086)
-Maggie Millett | Director	| [Link](https://directory.ucsf.edu/people/search/id/56271)
+Stephanie Louie | Department Manger	| [Link](https://directory.ucsf.edu/people/search/id/48396)
 Lisa Poon	| Operations Analyst | [Link](https://directory.ucsf.edu/people/search/id/29884)
 Peter Werba	| Server Administration | [Link](https://directory.ucsf.edu/people/search/id/53358)
 Reina Zavala	| Willed Body Administration | [Link](https://directory.ucsf.edu/people/search/id/54636)
