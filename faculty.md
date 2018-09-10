@@ -23,14 +23,18 @@ permalink: /faculty/
           <a href="{{ site.baseurl }}/basbaum"><img src="{{ site.baseurl }}/img/basbaum.jpg" class="w3-round w3-margin-bottom" alt="Allan Basbaum" style="width:60%"></a>
         </div>
         <div class="w3-third">
-          <p>Evan Feinberg</p>
-          <a href="{{ site.baseurl }}/feinberg"><img src="{{ site.baseurl }}/img/feinberg.jpg" class="w3-round" alt="Evan Feinberg" style="width:60%"></a>
+          <p>Rohit Bose</p>
+          <a href="http://rohitlab.org/"><img src="{{ site.baseurl }}/img/bose.jpg" class="w3-round" alt="Rohit Bose" style="width:60%"></a>
         </div>
       </div>
     </div>
 
     <div class="w3-container w3-content w3-center w3-padding-12" style="max-width:800px">
     <div class="w3-row w3-padding-32">
+    <div class="w3-third">
+      <p>Evan Feinberg</p>
+      <a href="{{ site.baseurl }}/feinberg"><img src="{{ site.baseurl }}/img/feinberg.jpg" class="w3-round" alt="Evan Feinberg" style="width:60%"></a>
+    </div>
       <div class="w3-third">
         <p>Carolyn Larabell</p>
         <a href="{{ site.baseurl }}/larabell"><img src="{{ site.baseurl }}/img/larabell.jpg" class="w3-round w3-margin-bottom" alt="Carolyn Larabell" style="width:60%"></a>
@@ -39,15 +43,15 @@ permalink: /faculty/
         <p>Mark Le Gros</p>
         <a href="{{ site.baseurl }}/legros"><img src="{{ site.baseurl }}/img/legros.jpg" class="w3-round w3-margin-bottom" alt="Mark Le Gros" style="width:60%"></a>
       </div>
-      <div class="w3-third">
-        <p>Donald McDonald</p>
-        <a href="{{ site.baseurl }}/mcdonald"><img src="{{ site.baseurl }}/img/mcdonald.jpg" class="w3-round w3-margin-bottom" alt="Donald McDonald" style="width:60%"></a>
-      </div>
     </div>
     </div>
 
   <div class="w3-container w3-content w3-center w3-padding-12" style="max-width:800px">
   <div class="w3-row w3-padding-32">
+  <div class="w3-third">
+    <p>Donald McDonald</p>
+    <a href="{{ site.baseurl }}/mcdonald"><img src="{{ site.baseurl }}/img/mcdonald.jpg" class="w3-round w3-margin-bottom" alt="Donald McDonald" style="width:60%"></a>
+  </div>
     <div class="w3-third">
       <p>Keith Mostov</p>
       <a href="{{ site.baseurl }}/mostov"><img src="{{ site.baseurl }}/img/mostov.jpg" class="w3-round" alt="Keith Mostov" style="width:60%"></a>
@@ -56,15 +60,15 @@ permalink: /faculty/
       <p>Tomasz Nowakowski</p>
       <a href="{{ site.baseurl }}/nowakowski"><img src="{{ site.baseurl }}/img/nowakowski.jpg" class="w3-round w3-margin-bottom" alt="Todd Nystul" style="width:60%"></a>
     </div>
-    <div class="w3-third">
-      <p>Todd Nystul</p>
-      <a href="{{ site.baseurl }}/nystul"><img src="{{ site.baseurl }}/img/nystul.jpg" class="w3-round w3-margin-bottom" alt="Todd Nystul" style="width:60%"></a>
-    </div>
   </div>
   </div>
 
   <div class="w3-container w3-content w3-center w3-padding-12" style="max-width:800px">
   <div class="w3-row w3-padding-32">
+   <div class="w3-third">
+    <p>Todd Nystul</p>
+    <a href="{{ site.baseurl }}/nystul"><img src="{{ site.baseurl }}/img/nystul.jpg" class="w3-round w3-margin-bottom" alt="Todd Nystul" style="width:60%"></a>
+    </div>
     <div class="w3-third">
       <p>Rushika Perera</p>
       <a href="{{ site.baseurl }}/perera"><img src="{{ site.baseurl }}/img/perera.jpg" class="w3-round w3-margin-bottom" title="autophagy and cancer metabolism." alt="Rushika Perera" style="width:60%"></a>
@@ -73,15 +77,15 @@ permalink: /faculty/
       <p>Jeroen Roose</p>
       <a href="{{ site.baseurl }}/roose"><img src="{{ site.baseurl }}/img/roose.jpg" class="w3-round w3-margin-bottom" alt="Jeroen Roose" style="width:60%"></a>
     </div>
-    <div class="w3-third">
-      <p>Kim Topp</p>
-      <a href="{{ site.baseurl }}/topp"><img src="{{ site.baseurl }}/img/Topp.jpg" class="w3-round w3-margin-bottom" alt="Kim Topp" style="width:60%"></a>
-    </div>
   </div>
   </div>
 
   <div class="w3-container w3-content w3-center w3-padding-12" style="max-width:800px">
   <div class="w3-row w3-padding-32">
+    <div class="w3-third">
+      <p>Kim Topp</p>
+      <a href="{{ site.baseurl }}/topp"><img src="{{ site.baseurl }}/img/Topp.jpg" class="w3-round w3-margin-bottom" alt="Kim Topp" style="width:60%"></a>
+    </div>
     <div class="w3-third">
       <p>Saul Villeda</p>
       <a href="{{ site.baseurl }}/villeda"><img src="{{ site.baseurl }}/img/villeda.jpg" class="w3-round" alt="Saul Villeda" style="width:60%"></a>
