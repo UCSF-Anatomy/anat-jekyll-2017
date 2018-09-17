@@ -37,12 +37,12 @@ permalink: /teaching/
         <a href="{{ site.baseurl }}/Harmon"><img src="{{ site.baseurl }}/img/Harmon.jpg" class="w3-round" alt="Derek Harmon" style="width:60%"></a>
       </div>
       <div class="w3-third">
-        <p>Peter Ohara, PhD</p>
-        <a href="{{ site.baseurl }}/Ohara"><img src="{{ site.baseurl }}/img/Ohara.jpg" class="w3-round" alt="Peter Ohara" style="width:60%"></a>
+        <p>Barbie Klein, PhD</p>
+        <a href="{{ site.baseurl }}/klein"><img src="{{ site.baseurl }}/img/klein.jpg" class="w3-round" alt="Barbie Klein" style="width:60%"></a>
       </div>
       <div class="w3-third">
-        <p>Dana Rohde, PhD</p>
-        <a href="{{ site.baseurl }}/Rohde"><img src="{{ site.baseurl }}/img/Rohde.jpg" class="w3-round" alt="Dana Rohde" style="width:60%"></a>
+        <p>Peter Ohara, PhD</p>
+        <a href="{{ site.baseurl }}/Ohara"><img src="{{ site.baseurl }}/img/Ohara.jpg" class="w3-round" alt="Peter Ohara" style="width:60%"></a>
       </div>
 
     </div>
@@ -50,7 +50,11 @@ permalink: /teaching/
 
   <div class="w3-container w3-content w3-center w3-padding-12" style="max-width:800px">
   <div class="w3-row w3-padding-32">
-    <div class="w3-third">
+  <div class="w3-third">
+    <p>Dana Rohde, PhD</p>
+    <a href="{{ site.baseurl }}/Rohde"><img src="{{ site.baseurl }}/img/Rohde.jpg" class="w3-round" alt="Dana Rohde" style="width:60%"></a>
+  </div>
+  <div class="w3-third">
       <p>Betty Smoot, PT</p>
       <a href="{{ site.baseurl }}/Smoot"><img src="{{ site.baseurl }}/img/Smoot.jpg" class="w3-round" alt="Betty Smoot" style="width:60%"></a>
     </div>
