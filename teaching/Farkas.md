@@ -91,7 +91,7 @@ permalink: /Farkas/
       			      }
       			      if (data.Narrative) { // show narrative, if we have it
       				  // truncate text to 500 characters, and delete any partial last sentence
-      			          var truncated_narrative = data.Narrative.substr(0,500).replace(/[\s\r\n]/g, " ").replace(/^(.+\.[\s\n\r]).*?$/g, "$1");
+      			          var truncated_narrative = data.Narrative.substr(0,900).replace(/[\s\r\n]/g, " ").replace(/^(.+\.[\s\n\r]).*?$/g, "$1");
       				  $('#profiles_narrative').show().text(truncated_narrative);
       			      } else {
       				  $('#profiles_narrative').hide();
