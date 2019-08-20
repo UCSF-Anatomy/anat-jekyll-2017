@@ -81,8 +81,8 @@ permalink: /teaching/
 
       <div class="w3-row w3-padding-32">
         <div class="w3-third">
-          <p>Jillian Giblin, Administrator</p>
-          <img src="{{ site.baseurl }}/img/Giblin.jpg" class="w3-round" alt="Jillian Giblin" style="width:60%">
+          <p>Stacey Yu, Administrator</p>
+          <img src="{{ site.baseurl }}/img/yu.jpg" class="w3-round" alt="Stacey Yu" style="width:60%">
         </div>
     </div>
 <!--end of the staff section-->
