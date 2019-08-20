@@ -7,7 +7,7 @@ permalink: /about/
 
 ### Chair: Allan Basbaum PhD, FRS
 
-#### Department Manger: Stephanie Louie
+#### Department Manager: Stephanie Louie
 
 Administration Offices
 513 Parnassus Avenue, S-1334  
@@ -78,7 +78,7 @@ Today the department performs research and teaching from the Parnassus and Missi
 
 [UCSF Shuttle Schedle "next bus"](https://www.nextbus.com/#!/ucsf)
 
-[S-1332 Conference Room](https://outlook.office365.com/owa/calendar/375786cfe4aa44149720b46efb52030a@ucsf.edu/1c83d640a9d7482c9e8b85b25344f5a53880951606359396543/calendar.html)
+[S-1332 Conference Room](https://outlook.office365.com/owa/calendar/375786cfe4aa44149720b46efb52030a@ucsf.edu/616cf72553b6439b8ba87a9879b0cc832608317398578249218/calendar.html)
 
 [UC Learning Center](http://learning.ucsf.edu/)<br>
 [Learning Ceneter Brochure download](../img/LC.pdf)
