@@ -1,0 +1,21 @@
+---
+layout: page
+title: "Stories from the Makers Lab: Designing for Surgical Biopsy in the Library"
+date: 2019-09-10 12:50:00
+categories: news
+published: true
+---
+
+### UCSF Library News Center...
+
+
+Stories from the Makers Lab: Designing for Surgical Biopsy in the Library
+
+If you have kept up with us in the past year, you may have seen silicone suturing pads, partial-task trainers, and the plethora of other innovative applications for health science simulation at UCSF that can be made cost-effectively using 3D printing and other emerging technologies right here in the Library.
+
+In the Makers Lab, we are excited to continue our exploration into this area of innovation to support the development of ideas that arise from our community of UCSF staff, faculty, students and researchers. A recent project we have been thrilled to support is the development of pelvis models for bone marrow biopsy training in the UCSF Division of Hematology and Oncology.
+[READ MORE](https://www.library.ucsf.edu/news/stories-from-the-makers-lab-designing-for-surgical-biopsy-in-the-library/)
+
+Read the [UCSF Press Release here](https://www.library.ucsf.edu/news/stories-from-the-makers-lab-designing-for-surgical-biopsy-in-the-library/)
+
+[Anatomy Department Teaching](http://anatomy.ucsf.edu/teaching/)
